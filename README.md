@@ -1,4 +1,4 @@
-<img width="832" height="418" alt="image" src="https://github.com/user-attachments/assets/7d4c31bb-eb27-469f-bd56-df6cba450a62" /># Java-Library-Management-Core 📚
+# Java-Library-Management-Core 📚
 
 ## 📖 Project Description
 A foundational library management system built with Java, focusing on robust Object-Oriented design and clean architecture. This project tracks book inventory, member records, and borrowing operations.
