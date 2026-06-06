@@ -1,5 +1,6 @@
 # Java-Library-Management-Core 📚
 
+
 ## 📖 Project Description
 A foundational library management system built with Java, focusing on robust Object-Oriented design and clean architecture. This project tracks book inventory, member records, and borrowing operations.
 
